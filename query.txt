@@ -1,0 +1,29 @@
+author_tbl;
+
+CREATE TABLE author_tbl (
+    author_code NUMBER(5) PRIMARY KEY,
+    author_name VARCHAR2(20),
+    contact_no  NUMBER(10)
+);
+
+INSERT INTO author_tbl VALUES (1, 'hari', 9080792242);
+INSERT INTO author_tbl VALUES (2, 'suresh', 6381174352);
+INSERT INTO author_tbl VALUES (3, 'hershoan', 8754176432);
+
+SELECT * FROM author_tbl;
+
+
+
+book_tbl; 
+
+CREATE TABLE book_tbl (
+    isbn        VARCHAR2(10) PRIMARY KEY,
+    book_title  VARCHAR2(20),
+    book_type   CHAR(1),
+    author_code NUMBER(5),
+    book_cost   NUMBER(8,2)
+);
+
+SELECT * FROM book_tbl;
+
+
