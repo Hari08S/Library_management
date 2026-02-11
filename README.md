@@ -24,36 +24,7 @@ MVC Architecture (Servlet → Service → DAO → Database)
 
  Project Structure
  
-Library_managements
-│
-├── src/main/java
-│   ├── in.kce.book.bean
-│   │   ├── AuthorBean.java
-│   │   └── BookBean.java
-│   │
-│   ├── in.kce.book.dao
-│   │   ├── AuthorDAO.java
-│   │   └── BookDAO.java
-│   │
-│   ├── in.kce.book.service
-│   │   └── Administrator.java
-│   │
-│   ├── in.kce.book.servlets
-│   │   ├── MainServlet.java
-│   │   └── ViewServlet.java
-│   │
-│   └── in.kce.book.util
-│       └── DBUtil.java
-│
-├── src/main/webapp
-│   ├── AddBook.html
-│   ├── ViewBook.html
-│   ├── Menu.html
-│   ├── Failure.html
-│   └── invalid.html
-│
-└── ojdbc8.jar
-```
+
 
  How to Run the Project
 
