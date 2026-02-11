@@ -71,11 +71,14 @@ Working Flow
 4. Data is stored and retrieved from Oracle Database using JDBC
 
 OUTPUT:
-<img width="1867" height="959" alt="Screenshot 2026-02-11 111228" src="https://github.com/user-attachments/assets/550aea6c-124c-4def-866b-c30b8f49456c" />
+<img width="1867" height="959" alt="Screenshot 2026-02-11 111228" src="https://github.com/user-attachments/assets/7949f24e-a77d-4c75-a36d-e90f27bf7760" />
 
-<img width="1919" height="964" alt="Screenshot 2026-02-11 111610" src="https://github.com/user-attachments/assets/bf152476-1db6-4c1e-9da9-838496c290a1" />
 
-<img width="1910" height="971" alt="Screenshot 2026-02-11 111704" src="https://github.com/user-attachments/assets/b23b1fd2-01c7-4068-92cf-7141e017b3eb" />
+<img width="1919" height="964" alt="Screenshot 2026-02-11 111610" src="https://github.com/user-attachments/assets/c42b74f6-bb14-403b-a4fe-0dab01221b78" />
+
+
+<img width="1910" height="971" alt="Screenshot 2026-02-11 111704" src="https://github.com/user-attachments/assets/84948b8e-5468-494e-9c55-6f634a46aab7" />
+
 
 
 
