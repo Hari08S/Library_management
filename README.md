@@ -1,4 +1,4 @@
-Library Management System (Java Servlet + JDBC + Oracle)
+-Library Management System (Java Servlet + JDBC + Oracle)
 
 A simple Library Management System developed using Java Servlets, JDBC, HTML, and Oracle Database.  
 This project allows users to add and view books along with author details using MVC architecture.
